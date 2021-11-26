@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cuntoushifu
-- 👀 I’m interested in Java
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning 考研
 - 💞️ I’m looking to collaborate on 计算机博弈
 - 📫 How to reach me https://aichina.me
