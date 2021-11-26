@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cuntoushifu
+- 👋 Hi, I’m 杨烨
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning 考研
 - 💞️ I’m looking to collaborate on 计算机博弈
